@@ -1,0 +1,120 @@
+html{
+    background-color: grey;
+}
+#logistics{
+    position: relative;
+    padding-left: 3%    ;
+    box-sizing: border-box;
+    box-shadow: 0 0 15px gainsboro;
+    width: 1400px;
+    height: 600px;
+    background-color: gainsboro;
+    border-radius: 50px;
+    cursor: pointer;
+    font-size: 25px;
+    color: blue;
+}
+#engineer{
+    position: relative;
+    padding-left: 3%  ;
+    box-sizing: border-box;
+    box-shadow: 0 0 15px gainsboro;
+    width: 1400px;
+    height: 600px;
+    background-color: gainsboro;
+    border-radius: 50px;
+    cursor: pointer;
+    font-size: 25px;
+    color: blue;
+}
+#resident_doctor{
+    position: relative;
+    padding-left: 3%  ;
+    box-sizing: border-box;
+    box-shadow: 0 0 15px gainsboro;
+    width: 1400px;
+    height: 600px;
+    background-color: gainsboro;
+    border-radius: 50px;
+    cursor: pointer;
+    font-size: 25px;
+    color: blue;
+
+}
+#architectural_visionary{
+    position: relative;
+    padding-left: 3%  ;
+    box-sizing: border-box;
+    box-shadow: 0 0 15px gainsboro;
+    width: 1400px;
+    height: 600px;
+    background-color: gainsboro;
+    border-radius: 50px;
+    cursor: pointer;
+    font-size: 25px;
+    color: blue;
+}
+#financial_wizard{
+    position: relative;
+    padding-left: 3%  ;
+    box-sizing: border-box;
+    box-shadow: 0 0 15px gainsboro;
+    width: 1400px;
+    height: 600px;
+    background-color: gainsboro;
+    border-radius: 50px;
+    cursor: pointer;
+    font-size: 25px;
+    color: blue;
+
+}
+#recruitment{
+    position: relative;
+    padding-left: 3%  ;
+    box-sizing: border-box;
+    box-shadow: 0 0 15px gainsboro;
+    width: 1400px;
+    height: 600px;
+    background-color: gainsboro;
+    border-radius: 50px;
+    cursor: pointer;
+    font-size: 25px;
+    color: blue;
+}
+
+.image{
+    position: absolute;
+    left: 78%;
+    top: 40%;
+    width: 300px;
+    display: flex;
+}
+
+.image img{
+    max-width: 100%;
+}
+
+
+h2{
+    text-align: center;
+    color: black;
+}
+h3{
+    text-align: center;
+    color: red;
+}
+#center{
+    text-align: center;
+    color: red;
+    font-weight: bold;
+}
+#date{
+    text-align: center;
+    color: black;
+    font-size: 30px;
+}
+h1{
+    text-align: center;
+    font-size: 40px;
+    color: yellow
+}
